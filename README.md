@@ -1,0 +1,1 @@
+This is a conversation generator utility for specific email account.User can define higher and lower email id range and user can also define number of messages to conversation. Example you have 100 emails in your account. You want to generate 5 [user input based] messages per conversation ranging from mail no. 75 [higher range] till mail no. 65 [lower range].
